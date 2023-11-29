@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{font-family: 'Roboto', sans-serif;}
+.headline{background:#0033ed;color:turquoise;
+         margin: 10px 10px 10px 10px;padding:10px 10px 10px 10px;font-size:20px;}
+.body{background:lightpink;color:darkred
+     margin: 10px 0px 10px 0px;padding: 5px 0px 5px 0px;}
+.call{color:black;position:absolute;top:1250px;left:40px;}
+#striker{height:auto;
+        width:500px;}
